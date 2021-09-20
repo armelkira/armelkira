@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Armel Kira
+- 👀 I’m interested in Robotics
+- 🌱 I’m currently learning Python and C/C++
+- 💞️ I’m looking to collaborate on any robotics project
+- 📫 How to reach me kira.armel[at]gmail.com
